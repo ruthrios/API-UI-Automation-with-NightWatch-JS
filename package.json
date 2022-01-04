@@ -1,0 +1,19 @@
+{
+  "name": "unosquare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^1.7.13"
+  },
+  "devDependencies": {
+    "chromedriver": "^96.0.0",
+    "geckodriver": "^3.0.1",
+    "selenium-server": "^3.141.59"
+  },
+  "description": ""
+}
